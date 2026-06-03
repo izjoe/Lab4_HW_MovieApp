@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie TV</string>
+    <string name="browse_title">Discover</string>
+    <string name="play_button">▶ Play</string>
+    <string name="add_watchlist">+ Watchlist</string>
+    <string name="back_button">← Back</string>
+    <string name="no_description">No description available.</string>
+</resources>
